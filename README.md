@@ -9,5 +9,10 @@ As funcionalidades:
 
 Cronograma:
 - Implementação básica do jogo. Até 29/11/2024.
+    - Concluída em 27/11/24.
+
 - Implementação de um placar. Até 30/11/2024.
+    -
+
 - Implementação de vários jogos na mesma execução. Até 02/11/2024, podendo ter atrazos.
+    - Concluída em 27/11/24.
